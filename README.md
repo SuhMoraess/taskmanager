@@ -13,11 +13,12 @@
 
 ### O que é React JS?
 - O React é uma biblioteca usada para criar interfaces de usuários interativas.
+- Utilizado para várias interações do usuário.
 - O conceito do React são os componentes. Componentes são funções javascript, pequenos blocos de código e através dele montamos grandes aplicações. 
 
 ### Componentes
 - No React, dividimos a aplicação em pequenos componentes.
-- Vários componentes, quando combinados, formam grandes estruturas.
+- Vários componentes quando combinados, formam grandes estruturas.
 - Pense em componentes, como se fossem peças de LEGO.
 - Usamos JSX para escrevê-los.
 - Componentes sempre são renderizados com a primeira letra MAIÚSCULA.
@@ -44,7 +45,7 @@
     npm run dev
     ```
 
-### Vantagens de SPAs
+### Vantagens de SPAs (Single Page Application)
 - Velocidade: navegação entre páginas é muito mais rápida, pois não exige chamadas para um servidor.
 - Experiência do usuário: SPAs são altamente interativas e perfomáticas.
 - Conteúdo inserido por meio de Javascript (React).
@@ -54,3 +55,7 @@
 - Utilizado quando há interação do usuário e reagir à interação do usuário com alguma informação.
 
 ## Projeto
+
+ Mongodb - IP9NfUjaZv37jUQ5
+ 
+ mongodb+srv://suhailahmoraesdev:<db_password>@taskmanager.tn4d3.mongodb.net/?retryWrites=true&w=majority&appName=TaskManager
